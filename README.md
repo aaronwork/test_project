@@ -1,6 +1,7 @@
 # Next.js Todo App
 
 This project is a minimal todo application built with [Next.js](https://nextjs.org), TypeScript and Tailwind CSS.
+You can add tasks with a title and optional details, edit them in place, and remove tasks when they're done.
 
 ## Getting Started
 
